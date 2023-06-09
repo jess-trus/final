@@ -1,5 +1,14 @@
 # final
-## Table of Contents
+Table of Contents
+
+1. [Introduction](#introduction)
+2. [Installation](#installation)
+3. [Model Performance](#modelperformance)
+4. [Best Models Analysis](#bestmodelsanalysis)
+6. [Visualizations](#visualizations)
+7. [References](#references)
+
+## Introduction
 
 Cardiovascular disease or heart disease describes a range of conditions that affect your heart. Diseases under the heart disease umbrella include blood vessel diseases, such as coronary artery disease. From WHO statistics, every year, 17.9 million die from heart disease
 
